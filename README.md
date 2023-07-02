@@ -1,16 +1,21 @@
 # weatherapp
 
-A new Flutter project.
+"Our weather application is a powerful and user-friendly tool that provides accurate and up-to-date weather information for cities worldwide. With our app, you can easily check the current weather conditions, including temperature, humidity, wind speed, and more, for any desired location.
 
-## Getting Started
+Key Features:
 
-This project is a starting point for a Flutter application.
+Real-time Weather Updates: Get the latest weather updates instantly, ensuring you are prepared for any changes in the weather.
 
-A few resources to get you started if this is your first Flutter project:
+Location-based Forecast: Access weather forecasts specific to your current location or search for any city worldwide. Stay informed about the weather conditions in your area or plan ahead for your upcoming travels.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Detailed Weather Data: Explore comprehensive weather details, including temperature highs and lows, precipitation chances, wind direction and speed, humidity levels, and atmospheric pressure. Our app provides all the necessary information for you to plan your day accordingly.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+User-Friendly Interface: Enjoy a clean and intuitive interface that makes navigating through the app effortless and enjoyable.
+
+# Screen Shot
+
+![Screenshot_1688275608](https://github.com/Imran-khattak/WeatherApp/assets/98551202/ac75540c-69ef-49e3-92f4-bb24dd5c08ec)
+
+
+
+
