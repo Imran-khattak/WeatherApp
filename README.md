@@ -17,5 +17,9 @@ User-Friendly Interface: Enjoy a clean and intuitive interface that makes naviga
 ![Screenshot_1688275608](https://github.com/Imran-khattak/WeatherApp/assets/98551202/ac75540c-69ef-49e3-92f4-bb24dd5c08ec)
 
 
+![Screenshot_1688272307](https://github.com/Imran-khattak/WeatherApp/assets/98551202/a4f1fe03-710b-4738-ac41-5433d10ee985)
 
+
+
+![Screenshot_1688272358](https://github.com/Imran-khattak/WeatherApp/assets/98551202/48085105-803d-4f4d-a27c-1e1938cd10c6)
 
